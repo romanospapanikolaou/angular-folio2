@@ -1,0 +1,1375 @@
+.style-0 {
+  cursor: auto;
+  overflow: hidden;
+  font-family: "Open Sauce", arial, sans-serif;
+  font-weight: 500;
+  min-height: 754px;
+  font-size: 15.9999px;
+  background: rgb(17, 17, 17) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  color: rgb(170, 170, 170);
+  box-sizing: border-box;
+  line-height: 15.9999px;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-1 {
+  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  opacity: 1;
+  pointer-events: all;
+  visibility: inherit;
+  opacity: 1;
+  pointer-events: all;
+  visibility: visible;
+  padding: 23.9998px 0px;
+  min-height: 754px;
+  box-sizing: border-box;
+}
+
+.style-2 {
+  transform: translate(0px, 0px);
+  opacity: 1;
+  opacity: 1;
+  margin-bottom: 63.9996px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 16.8px;
+  padding-left: 39.9997px;
+  padding-right: 39.9997px;
+  font-size: 12px;
+  font-family: "Open Sauce", arial;
+  box-sizing: border-box;
+  margin: 0px 0px 63.9996px;
+  padding: 0px 39.9997px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-3 {
+  display: flex;
+  max-width: 489.997px;
+  width: 100%;
+  margin-right: 49.9997px;
+  text-transform: uppercase;
+  justify-content: space-between;
+  box-sizing: border-box;
+  margin: 0px 49.9997px 0px 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 12px / 16.8px "Open Sauce", arial;
+}
+
+.style-4 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 12px / 16.8px "Open Sauce", arial;
+}
+
+.style-5 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 12px / 16.8px "Open Sauce", arial;
+}
+
+.style-6 {
+  box-sizing: border-box;
+}
+
+.style-7 {
+  color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 12px / 16.8px "Open Sauce", arial;
+}
+
+.style-8 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 12px / 16.8px "Open Sauce", arial;
+}
+
+.style-9 {
+  box-sizing: border-box;
+}
+
+.style-10 {
+  display: flex;
+  max-width: 325px;
+  width: 100%;
+  text-transform: uppercase;
+  justify-content: space-between;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 12px / 16.8px "Open Sauce", arial;
+}
+
+.style-11 {
+  display: none;
+  color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 12px / 16.8px "Open Sauce", arial;
+}
+
+.style-12 {
+  box-sizing: border-box;
+}
+
+.style-13 {
+  color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 12px / 16.8px "Open Sauce", arial;
+}
+
+.style-14 {
+  box-sizing: border-box;
+}
+
+.style-15 {
+  flex-shrink: 0;
+  flex-grow: 0;
+  display: block;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  color: rgb(170, 170, 170);
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 5px 8px;
+  border: 2px solid rgb(119, 119, 119);
+  border-radius: 45px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  box-sizing: border-box;
+}
+
+.style-16 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px Arial;
+}
+
+.style-17 {
+  display: flex;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  margin-right: 2px;
+  box-sizing: border-box;
+  margin: 0px 2px 0px 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px Arial;
+}
+
+.style-18 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px Arial;
+}
+
+.style-19 {
+  display: block;
+  position: absolute;
+  top: 18.5px;
+  font-family: "Open Sauce", arial;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-20 {
+  margin-bottom: 95.9994px;
+  padding-left: 39.9997px;
+  padding-right: 39.9997px;
+  box-sizing: border-box;
+  display: block;
+  padding: 0px 39.9997px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-21 {
+  line-height: 14.3999px;
+  color: rgb(119, 119, 119);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 15.9999px / 14.3999px "Open Sauce", arial, sans-serif;
+}
+
+.style-22 {
+  transform: translate(0px, 0px);
+  display: none;
+  letter-spacing: -16.3999px;
+  overflow-wrap: break-word;
+  font-size: 327.998px;
+  font-family: "Bebas Neue", sans-serif;
+  word-break: break-word;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-23 {
+  box-sizing: border-box;
+}
+
+.style-24 {
+  box-sizing: border-box;
+}
+
+.style-25 {
+  overflow: unset;
+  display: inline-flex;
+  width: 100%;
+  justify-content: space-between;
+  padding-right: 29.9998px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 29.9998px 0px 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 15.9999px / 14.3999px "Open Sauce", arial, sans-serif;
+}
+
+.style-26 {
+  transform: translate(0px, 0px);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 29.9998px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 29.9998px 0px 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 15.9999px / 14.3999px "Open Sauce", arial, sans-serif;
+}
+
+.style-27 {
+  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  display: block;
+  letter-spacing: -34.4398px;
+  font-size: 327.998px;
+  font-family: "Bebas Neue", sans-serif;
+  word-break: break-word;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-28 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-29 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-30 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-31 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-32 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-33 {
+  transform: scale(1.05, 1);
+  will-change: transform;
+  display: block;
+  letter-spacing: -34.4398px;
+  font-size: 327.998px;
+  font-family: "Bebas Neue", sans-serif;
+  word-break: break-word;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-34 {
+  display: none;
+  transform: none;
+  will-change: transform;
+  letter-spacing: -34.4398px;
+  font-size: 327.998px;
+  font-family: "Bebas Neue", sans-serif;
+  word-break: break-word;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-35 {
+  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  display: block;
+  letter-spacing: -34.4398px;
+  font-size: 327.998px;
+  font-family: "Bebas Neue", sans-serif;
+  word-break: break-word;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-36 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-37 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-38 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-39 {
+  overflow: unset;
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 15.9999px / 14.3999px "Open Sauce", arial, sans-serif;
+}
+
+.style-40 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 15.9999px / 14.3999px "Open Sauce", arial, sans-serif;
+}
+
+.style-41 {
+  transform: translate(0px, 0px);
+  letter-spacing: -34.4398px;
+  flex-shrink: 0;
+  font-size: 327.998px;
+  font-family: "Bebas Neue", sans-serif;
+  word-break: break-word;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-42 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-43 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-44 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-45 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-46 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-47 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-48 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-49 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-50 {
+  transition: color 0.2s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 327.998px / 295.198px "Bebas Neue", sans-serif;
+}
+
+.style-51 {
+  opacity: 1;
+  transform: translate(0px, 0px);
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  position: relative;
+  z-index: 1;
+  max-width: 324.998px;
+  width: 100%;
+  padding: 19.9999px 0px 49.9997px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Open Sauce", arial;
+  font-size: 15.9999px;
+  font-weight: 400;
+  line-height: 20.7999px;
+  box-sizing: border-box;
+  margin: 0px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-52 {
+  color: rgb(170, 170, 170);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-53 {
+  color: rgb(119, 119, 119);
+  text-transform: uppercase;
+  font-size: 12px;
+  font-family: "Open Sauce", arial;
+  line-height: 15.6px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-54 {
+  text-transform: uppercase;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-55 {
+  text-transform: uppercase;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-56 {
+  text-transform: uppercase;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-57 {
+  text-transform: uppercase;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-58 {
+  margin-top: auto;
+  color: rgb(119, 119, 119);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-59 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-60 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-61 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-62 {
+  display: flex;
+  transform: matrix(1, 0, 0, 1, 0, 2.12596);
+  animation: 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s infinite normal none
+    running infiniteArrow;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-63 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-64 {
+  box-sizing: border-box;
+}
+
+.style-65 {
+  box-sizing: border-box;
+}
+
+.style-66 {
+  position: absolute;
+  top: 25.7969px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-67 {
+  box-sizing: border-box;
+}
+
+.style-68 {
+  box-sizing: border-box;
+}
+
+.style-69 {
+  padding-left: 39.9997px;
+  padding-right: 39.9997px;
+  box-sizing: border-box;
+  display: block;
+  margin: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+/* .style-252 {
+  padding-top: 159.999px;
+  box-sizing: border-box;
+  display: block;
+  margin: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-253 {
+  max-width: 439.997px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  margin: 0px 500.008px 63.9996px 500px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Open Sauce", arial;
+  font-size: 15.9999px;
+  font-weight: 400;
+  line-height: 20.7999px;
+  box-sizing: border-box;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-254 {
+  padding-left: 39.9997px;
+  padding-right: 39.9997px;
+  box-sizing: border-box;
+  margin: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-255 {
+  opacity: 1;
+  visibility: inherit;
+  visibility: visible;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-256 {
+  transform: scale(0, 1);
+  height: 2px;
+  background: rgb(119, 119, 119) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  display: block;
+  transform-origin: 0px 0px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-257 {
+  text-transform: uppercase;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-258 {
+  color: rgb(170, 170, 170);
+  text-decoration: none solid rgb(170, 170, 170);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-259 {
+  padding-top: 57.9996px;
+  padding-bottom: 22.9999px;
+  height: 240.984px;
+  width: fit-content;
+  align-items: center;
+  display: flex;
+  position: relative;
+  animation: 25s linear 0s infinite normal none running marquee;
+  will-change: transform;
+  box-sizing: border-box;
+  margin: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-260 {
+  text-transform: uppercase;
+  color: rgb(119, 119, 119);
+  position: relative;
+  overflow: hidden;
+  white-space: nowrap;
+  padding-left: 19.9999px;
+  padding-right: 19.9999px;
+  font-size: 159.999px;
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: -3.99997px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 19.9999px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-261 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 160);
+  transition: transform 0.275s ease 0s;
+  white-space: nowrap;
+  padding-left: 19.9999px;
+  padding-right: 19.9999px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 19.9999px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 159.999px / 159.999px "Bebas Neue", sans-serif;
+}
+
+.style-262 {
+  text-transform: uppercase;
+  color: rgb(119, 119, 119);
+  position: relative;
+  overflow: hidden;
+  white-space: nowrap;
+  padding-left: 19.9999px;
+  padding-right: 19.9999px;
+  font-size: 159.999px;
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: -3.99997px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 19.9999px;
+  border: 0px none rgb(119, 119, 119);
+}
+
+.style-263 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 160);
+  transition: transform 0.275s ease 0s;
+  white-space: nowrap;
+  padding-left: 19.9999px;
+  padding-right: 19.9999px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 19.9999px;
+  border: 0px none rgb(119, 119, 119);
+  font: 500 159.999px / 159.999px "Bebas Neue", sans-serif;
+}
+
+.style-264 {
+  padding-left: 39.9997px;
+  padding-right: 39.9997px;
+  box-sizing: border-box;
+  margin: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-265 {
+  opacity: 1;
+  visibility: inherit;
+  visibility: visible;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-266 {
+  transform: scale(0, 1);
+  transform-origin: 1360.02px 0px;
+  height: 2px;
+  background: rgb(119, 119, 119) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-267 {
+  padding-top: 47.9997px;
+  padding-bottom: 71.9995px;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-268 {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  border: 0px none rgb(170, 170, 170);
+  font-weight: 500;
+  cursor: pointer;
+  color: rgb(170, 170, 170);
+  padding: 0px;
+  margin-bottom: 15.9999px;
+  font-family: "Open Sauce", arial;
+  font-size: 31.9998px;
+  line-height: 41.5997px;
+  letter-spacing: -0.799995px;
+  box-sizing: border-box;
+}
+
+.style-269 {
+  display: block;
+  opacity: 0;
+  text-transform: uppercase;
+  transform: matrix(1, 0, 0, 1, 0, 20.7969);
+  transition: opacity 0.3s ease 0s, transform 0.3s ease 0s;
+  font-family: "Open Sauce", arial;
+  font-size: 15.9999px;
+  font-weight: 400;
+  line-height: 20.7999px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-270 {
+  padding: 5px 8px;
+  border: 2px solid rgb(119, 119, 119);
+  border-radius: 45px;
+  box-sizing: border-box;
+  margin: 0px;
+  font: 15.9999px / 20.7999px "Open Sauce", arial;
+}
+
+.style-271 {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding-bottom: 39.9997px;
+  font-weight: 400;
+  font-size: 16px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 0px 39.9997px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-272 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-273 {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-274 {
+  display: flex;
+  margin-left: auto;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-275 {
+  margin-left: 7.99995px;
+  display: flex;
+  box-sizing: border-box;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-276 {
+  margin-right: 7.99995px;
+  display: block;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  color: rgb(170, 170, 170);
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 5px 8px;
+  border: 2px solid rgb(119, 119, 119);
+  border-radius: 45px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  text-decoration: none solid rgb(170, 170, 170);
+  box-sizing: border-box;
+}
+
+.style-277 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-278 {
+  display: flex;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  margin-right: 2px;
+  box-sizing: border-box;
+  margin: 0px 2px 0px 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-279 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-280 {
+  display: block;
+  position: absolute;
+  top: 16px;
+  font-family: "Open Sauce", arial;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-281 {
+  display: block;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  color: rgb(170, 170, 170);
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 5px 8px;
+  border: 2px solid rgb(119, 119, 119);
+  border-radius: 45px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  text-decoration: none solid rgb(170, 170, 170);
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.style-282 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-283 {
+  display: flex;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  margin-right: 2px;
+  box-sizing: border-box;
+  margin: 0px 2px 0px 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-284 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-285 {
+  display: block;
+  position: absolute;
+  top: 16px;
+  font-family: "Open Sauce", arial;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-286 {
+  display: flex;
+  margin-left: auto;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-287 {
+  margin-left: 7.99995px;
+  display: flex;
+  box-sizing: border-box;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-288 {
+  margin-right: 7.99995px;
+  display: block;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  color: rgb(170, 170, 170);
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 5px 8px;
+  border: 2px solid rgb(119, 119, 119);
+  border-radius: 45px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  text-decoration: none solid rgb(170, 170, 170);
+  box-sizing: border-box;
+}
+
+.style-289 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-290 {
+  display: flex;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  margin-right: 2px;
+  box-sizing: border-box;
+  margin: 0px 2px 0px 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-291 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-292 {
+  display: block;
+  position: absolute;
+  top: 16px;
+  font-family: "Open Sauce", arial;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-293 {
+  display: block;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box
+    border-box;
+  color: rgb(170, 170, 170);
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 5px 8px;
+  border: 2px solid rgb(119, 119, 119);
+  border-radius: 45px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  text-decoration: none solid rgb(170, 170, 170);
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.style-294 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-295 {
+  display: flex;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  margin-right: 2px;
+  box-sizing: border-box;
+  margin: 0px 2px 0px 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-296 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-297 {
+  display: block;
+  position: absolute;
+  top: 16px;
+  font-family: "Open Sauce", arial;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-298 {
+  left: 23.9998px;
+  position: absolute;
+  right: 0px;
+  top: 9.99994px;
+  display: flex;
+  font-family: "Open Sauce", arial;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+}
+
+.style-299 {
+  color: rgb(119, 119, 119);
+  margin-right: 13.9999px;
+  box-sizing: border-box;
+  margin: 0px 13.9999px 0px 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 16px / 16px "Open Sauce", arial;
+}
+
+.style-300 {
+  position: relative;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial;
+}
+
+.style-301 {
+  color: rgb(170, 170, 170);
+  text-decoration: none solid rgb(170, 170, 170);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial;
+}
+
+.style-302 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial;
+}
+
+.style-303 {
+  right: 23.9998px;
+  position: absolute;
+  top: 9.99994px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-304 {
+  color: rgb(119, 119, 119);
+  transition: color 0.3s ease 0s;
+  text-decoration: none solid rgb(119, 119, 119);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(119, 119, 119);
+  font: 16px / 16px "Open Sauce", arial, sans-serif;
+}
+
+.style-305 {
+  opacity: 0.346547;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 11px;
+  height: 754px;
+  transform-origin: 11px 377px;
+  transition: transform 0.3s ease 0s, opacity 0.3s ease 0s;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+}
+
+.style-306 {
+  height: 96.5222px;
+  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  transform: none;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.5;
+  width: 7px;
+  border-radius: 10px;
+  margin: 2px;
+  cursor: grab;
+  display: none;
+  box-sizing: border-box;
+  padding: 0px;
+  border: 0px none rgb(170, 170, 170);
+  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
+} */
