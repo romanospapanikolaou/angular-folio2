@@ -1,15 +1,29 @@
 .home-nav {
-  margin-bottom: 6.4rem;
   display: flex;
   justify-content: space-between;
-  line-height: 1.4;
+  align-items: center;
+  padding: 10px;
   padding-left: 4rem;
   padding-right: 4rem;
-  font-size: 12px;
 }
 
 .header-name {
-  max-width: 49rem;
-  width: 100%;
-  margin-right: 5rem;
+  flex: 1;
+  font-size: 12px;
+}
+
+.header-title {
+  flex: 2;
+  text-align: center;
+}
+
+.header-text {
+  font-size: 12px;
+  flex: 1;
+  text-align: right;
+}
+
+.nav-button {
+  text-decoration: none;
+  margin-left: 10px;
 }
