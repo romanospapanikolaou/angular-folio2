@@ -60,7 +60,6 @@
   border: 2px solid rgb(119, 119, 119);
   border-radius: 45px;
   cursor: pointer;
-  transition: all 0.3s ease 0s;
   text-decoration: none solid rgb(170, 170, 170);
   box-sizing: border-box;
 }
@@ -80,8 +79,6 @@
 
 .style-278 {
   display: flex;
-  transform: matrix(1, 0, 0, 1, 0, 0);
-  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
   margin-right: 2px;
   box-sizing: border-box;
   margin: 0px 2px 0px 0px;
@@ -120,7 +117,6 @@
   border: 2px solid rgb(119, 119, 119);
   border-radius: 45px;
   cursor: pointer;
-  transition: all 0.3s ease 0s;
   text-decoration: none solid rgb(170, 170, 170);
   box-sizing: border-box;
   margin: 0px;
@@ -141,8 +137,6 @@
 
 .style-283 {
   display: flex;
-  transform: matrix(1, 0, 0, 1, 0, 0);
-  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
   margin-right: 2px;
   box-sizing: border-box;
   margin: 0px 2px 0px 0px;
@@ -201,7 +195,6 @@
   border: 2px solid rgb(119, 119, 119);
   border-radius: 45px;
   cursor: pointer;
-  transition: all 0.3s ease 0s;
   text-decoration: none solid rgb(170, 170, 170);
   box-sizing: border-box;
 }
@@ -221,8 +214,6 @@
 
 .style-290 {
   display: flex;
-  transform: matrix(1, 0, 0, 1, 0, 0);
-  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
   margin-right: 2px;
   box-sizing: border-box;
   margin: 0px 2px 0px 0px;
@@ -261,7 +252,6 @@
   border: 2px solid rgb(119, 119, 119);
   border-radius: 45px;
   cursor: pointer;
-  transition: all 0.3s ease 0s;
   text-decoration: none solid rgb(170, 170, 170);
   box-sizing: border-box;
   margin: 0px;
@@ -282,8 +272,6 @@
 
 .style-295 {
   display: flex;
-  transform: matrix(1, 0, 0, 1, 0, 0);
-  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
   margin-right: 2px;
   box-sizing: border-box;
   margin: 0px 2px 0px 0px;
@@ -374,7 +362,6 @@
 
 .style-304 {
   color: rgb(119, 119, 119);
-  transition: color 0.3s ease 0s;
   text-decoration: none solid rgb(119, 119, 119);
   box-sizing: border-box;
   margin: 0px;
@@ -391,7 +378,6 @@
   width: 11px;
   height: 754px;
   transform-origin: 11px 377px;
-  transition: transform 0.3s ease 0s, opacity 0.3s ease 0s;
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
@@ -401,8 +387,6 @@
 
 .style-306 {
   height: 96.5222px;
-  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
-  transform: none;
   position: absolute;
   top: 0px;
   right: 0px;

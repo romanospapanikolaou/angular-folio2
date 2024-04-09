@@ -20,7 +20,6 @@
 }
 
 .style-22 {
-  transform: translate(0px, 0px);
   display: none;
   letter-spacing: -16.3999px;
   overflow-wrap: break-word;
@@ -55,7 +54,6 @@
 }
 
 .style-26 {
-  transform: translate(0px, 0px);
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -68,7 +66,6 @@
 }
 
 .style-27 {
-  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
   display: block;
   letter-spacing: -34.4398px;
   font-size: 327.998px;
@@ -126,7 +123,6 @@
 }
 
 .style-33 {
-  transform: scale(1.05, 1);
   will-change: transform;
   display: block;
   letter-spacing: -34.4398px;
@@ -141,7 +137,6 @@
 
 .style-34 {
   display: none;
-  transform: none;
   will-change: transform;
   letter-spacing: -34.4398px;
   font-size: 327.998px;
@@ -154,7 +149,6 @@
 }
 
 .style-35 {
-  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
   display: block;
   letter-spacing: -34.4398px;
   font-size: 327.998px;
@@ -217,7 +211,6 @@
 }
 
 .style-41 {
-  transform: translate(0px, 0px);
   letter-spacing: -34.4398px;
   flex-shrink: 0;
   font-size: 327.998px;
@@ -312,8 +305,6 @@
 
 .style-51 {
   opacity: 1;
-  transform: translate(0px, 0px);
-  transform: matrix(1, 0, 0, 1, 0, 0);
   position: relative;
   z-index: 1;
   max-width: 324.998px;
@@ -394,9 +385,7 @@
 
 .style-62 {
   display: flex;
-  transform: matrix(1, 0, 0, 1, 0, 2.12596);
-  animation: 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s infinite normal none
-    running infiniteArrow;
+
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
@@ -436,14 +425,4 @@
 
 .style-68 {
   box-sizing: border-box;
-}
-
-.style-69 {
-  padding-left: 39.9997px;
-  padding-right: 39.9997px;
-  box-sizing: border-box;
-  display: block;
-  margin: 0px;
-  border: 0px none rgb(170, 170, 170);
-  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
 }
