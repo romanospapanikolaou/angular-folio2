@@ -74,16 +74,6 @@
   font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
 }
 
-.style-258 {
-  color: rgb(170, 170, 170);
-  text-decoration: none solid rgb(170, 170, 170);
-  box-sizing: border-box;
-  margin: 0px;
-  padding: 0px;
-  border: 0px none rgb(170, 170, 170);
-  font: 500 15.9999px / 15.9999px "Open Sauce", arial, sans-serif;
-}
-
 .style-259 {
   padding-top: 57.9996px;
   padding-bottom: 22.9999px;
@@ -230,6 +220,7 @@
   line-height: 41.5997px;
   letter-spacing: -0.799995px;
   box-sizing: border-box;
+  text-decoration: none solid rgb(170, 170, 170);
 }
 
 .style-269 {
