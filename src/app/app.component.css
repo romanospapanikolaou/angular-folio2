@@ -1,15 +1,15 @@
 .style-0 {
   cursor: auto;
   overflow: hidden;
-  font-family: "Open Sauce", arial, sans-serif;
+  font-family: arial, sans-serif;
   font-weight: 500;
   min-height: 754px;
-  font-size: 15.9999px;
+  font-size: 16px;
   background: rgb(17, 17, 17) none repeat scroll 0% 0% / auto padding-box
     border-box;
   color: rgb(170, 170, 170);
   box-sizing: border-box;
-  line-height: 15.9999px;
+  line-height: 16px;
   margin: 0px;
   padding: 0px;
   border: 0px none rgb(170, 170, 170);
@@ -22,7 +22,7 @@
   opacity: 1;
   pointer-events: all;
   visibility: visible;
-  padding: 23.9998px 0px;
+  padding: 24px 0px;
   min-height: 754px;
   box-sizing: border-box;
 }
