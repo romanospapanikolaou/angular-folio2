@@ -48,3 +48,8 @@
   padding: 0px;
   font: 16px / 21px arial;
 }
+
+.animate__animated.animate__fadeIn {
+  animation: fadeIn; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 5s; /* don't forget to set a duration! */
+}
