@@ -1,73 +1,43 @@
-.style-2 {
+.header {
   opacity: 1;
-  opacity: 1;
-  margin-bottom: 64px;
   display: flex;
   justify-content: space-between;
-  line-height: 17px;
-  padding-left: 40px;
-  padding-right: 40px;
+  line-height: 20px;
   font-size: 12px;
-  font-family: arial;
-  box-sizing: border-box;
   margin: 0px 0px 64px;
   padding: 0px 40px;
-  border: 0px none rgb(170, 170, 170);
 }
 
-.style-3 {
+.header-left {
   display: flex;
   max-width: 500px;
   width: 100%;
   margin-right: 50px;
   text-transform: uppercase;
   justify-content: space-between;
-  box-sizing: border-box;
-  margin: 0px 50px 0px 0px;
   padding: 0px;
-  border: 0px none rgb(170, 170, 170);
-  font: 12px arial;
 }
 
-.style-5 {
-  box-sizing: border-box;
+.header-title {
   margin: 0px;
   padding: 0px;
-  border: 0px none rgb(170, 170, 170);
-  font: 12px arial;
 }
 
-.style-10 {
+.header-right {
   display: flex;
   max-width: 325px;
   width: 100%;
   text-transform: uppercase;
   justify-content: space-between;
-  box-sizing: border-box;
-  margin: 0px;
-  padding: 0px;
-  border: 0px none rgb(170, 170, 170);
-  font: 12px arial;
 }
 
-.style-15 {
-  flex-shrink: 0;
-  flex-grow: 0;
+.header-button {
   display: block;
   color: rgb(170, 170, 170);
-  font-size: 16px;
+  font-size: 12px;
   text-transform: uppercase;
   padding: 5px 8px;
   border: 2px solid rgb(119, 119, 119);
   border-radius: 45px;
   cursor: pointer;
-  box-sizing: border-box;
-}
-
-.style-18 {
-  box-sizing: border-box;
-  margin: 0px;
-  padding: 0px;
-  border: 0px none rgb(170, 170, 170);
-  font: 16px Arial;
 }
