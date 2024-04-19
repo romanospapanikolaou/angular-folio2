@@ -5,7 +5,7 @@
   padding: 0px 40px;
 }
 
-.style-40 {
+.hero-line {
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -13,9 +13,8 @@
 
 .hero-title {
   display: flex;
-  letter-spacing: -34.4398px;
   transition: color 0.2s ease 0s;
-  font: 500 320px / 290px "Bebas Neue", sans-serif;
+  font: 800 450px / 350px "Bebas Neue", sans-serif;
 }
 
 .hero-side {
