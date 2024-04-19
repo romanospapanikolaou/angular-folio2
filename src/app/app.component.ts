@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from './header/header.component';
 import { HeroComponent } from './hero/hero.component';
-import { AboutComponent } from './about/about.component';
 import { FooterComponent } from './footer/footer.component';
 
 @Component({
@@ -10,13 +9,7 @@ import { FooterComponent } from './footer/footer.component';
   standalone: true,
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
-  imports: [
-    RouterOutlet,
-    HeaderComponent,
-    HeroComponent,
-    AboutComponent,
-    FooterComponent,
-  ],
+  imports: [RouterOutlet, HeaderComponent, HeroComponent, FooterComponent],
 })
 export class AppComponent {
   title = 'angular-folio2';
