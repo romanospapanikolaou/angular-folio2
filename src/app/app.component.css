@@ -1,28 +1,6 @@
-.style-0 {
-  cursor: auto;
+* {
   overflow: hidden;
   font-family: arial, sans-serif;
-  font-weight: 500;
-  min-height: 754px;
-  font-size: 16px;
-  background: rgb(17, 17, 17) none repeat scroll 0% 0% / auto padding-box
-    border-box;
+  background: rgb(17, 17, 17);
   color: rgb(170, 170, 170);
-  box-sizing: border-box;
-  line-height: 16px;
-  margin: 0px;
-  padding: 0px;
-  border: 0px none rgb(170, 170, 170);
-}
-
-.style-1 {
-  opacity: 1;
-  pointer-events: all;
-  visibility: inherit;
-  opacity: 1;
-  pointer-events: all;
-  visibility: visible;
-  padding: 24px 0px;
-  min-height: 754px;
-  box-sizing: border-box;
 }
