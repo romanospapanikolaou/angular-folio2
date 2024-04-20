@@ -51,5 +51,5 @@
 
 .animate__animated.animate__fadeIn {
   animation: fadeIn; /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 5s; /* don't forget to set a duration! */
+  animation-duration: 4s; /* don't forget to set a duration! */
 }
