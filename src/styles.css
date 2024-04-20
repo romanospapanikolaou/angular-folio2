@@ -6,8 +6,8 @@
 @media (min-width: 1800px) {
 }
 
-/* Media Query for Laptops/Desktops (1024px and 1800px) */
-@media (min-width: 1024px) and (max-width: 1800px) {
+/* Media Query for Laptops/Desktops (1024px and 1650px) */
+@media (min-width: 1024px) and (max-width: 1650px) {
   .hero-title {
     font: 800 250px / 190px "Bebas Neue", sans-serif !important;
   }
