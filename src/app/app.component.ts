@@ -14,3 +14,8 @@ import { FooterComponent } from './footer/footer.component';
 export class AppComponent {
   title = 'angular-folio2';
 }
+
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
+// ..
+AOS.init();
