@@ -1,7 +1,7 @@
 .hero {
+  display: flex;
   height: 90vh;
   box-sizing: border-box;
-  display: block;
 }
 
 .hero-line {
@@ -10,8 +10,8 @@
 }
 
 .hero-title {
-  letter-spacing: -22px;
   display: flex;
+  letter-spacing: -22px;
   transition: color 0.2s ease 0s;
   font: 800 400px / 350px "Bebas Neue", sans-serif;
 }
