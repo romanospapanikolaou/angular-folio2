@@ -1,13 +1,29 @@
 .hero {
   display: flex;
   height: 90vh;
+  padding-bottom: 20px;
 }
 
-.hero-title {
+.title-box {
+  width: 100%;
+}
+
+.title-box-left {
+  float: left;
+  width: 60%;
+  height: 100%;
+}
+
+.title-box-left-child {
   display: flex;
-  letter-spacing: -15px;
-  line-height: 170px;
+
+  height: 30%;
+}
+
+.hero-title,
+h1 {
+  display: flex;
   font-family: "Bebas Neue", sans-serif;
-  font-weight: 1000;
+  font-weight: 900;
   font-size: 200px;
 }
