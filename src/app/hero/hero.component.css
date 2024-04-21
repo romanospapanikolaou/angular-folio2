@@ -1,9 +1,7 @@
 .hero {
-  position: fixed;
   display: flex;
   height: 90vh;
   box-sizing: border-box;
-  top: 100px;
 }
 
 .hero-line {
