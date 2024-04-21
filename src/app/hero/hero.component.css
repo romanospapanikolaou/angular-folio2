@@ -1,7 +1,7 @@
 .hero {
   display: block;
   height: 90vh;
-  overflow: hidden;
+  overflow-x: hidden;
   padding-left: 28px;
   padding-right: 28px;
   margin-bottom: 45px;
@@ -13,18 +13,24 @@
 }
 
 .hero__title {
-  font-size: 220px;
+  font-size: 200px;
   font-weight: 900;
-  word-break: break-word;
   letter-spacing: -15px;
   font-family: "Prompt", sans-serif;
 }
 
-.span {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
+.hero__title__bottom {
+  display: inline-flex;
+  width: 100%;
+  height: 0;
+  justify-content: space-between;
+  margin-top: -250px;
+}
+
+.bottom__left {
+  font-size: 200px;
+  font-weight: 900;
+  word-break: break-word;
+  letter-spacing: -15px;
+  font-family: "Prompt", sans-serif;
 }
