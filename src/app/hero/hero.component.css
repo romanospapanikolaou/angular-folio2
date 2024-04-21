@@ -11,12 +11,14 @@
 
 .hero-title {
   display: flex;
-  letter-spacing: -22px;
-  transition: color 0.2s ease 0s;
-  font: 800 400px / 350px "Bebas Neue", sans-serif;
+  letter-spacing: -15px;
+  line-height: 180px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 900;
+  font-size: 200px;
 }
 
-.hero-side {
+/* .hero-side {
   opacity: 1;
   position: relative;
   z-index: 1;
@@ -46,4 +48,4 @@
   justify-content: space-between;
   padding: 0px;
   font: 16px / 21px arial;
-}
+} */
