@@ -4,26 +4,26 @@
   justify-content: space-between;
   line-height: 20px;
   font-size: 12px;
-  width: 100%;
-  padding-bottom: 20px;
+  padding-left: 28px;
+  padding-right: 28px;
+  margin-bottom: 45px;
 }
 
 .header-left {
+  display: flex;
+  width: 40%;
+  flex-direction: row;
+  align-items: center;
+  text-transform: uppercase;
+  justify-content: space-between;
+}
+
+.header-right {
   display: flex;
   width: 30%;
   flex-direction: row;
   align-items: center;
   text-transform: uppercase;
   justify-content: space-between;
-  margin-left: 40px;
-}
-
-.header-right {
-  display: flex;
-  width: 20%;
-  flex-direction: row;
-  align-items: center;
-  text-transform: uppercase;
-  justify-content: space-between;
-  margin-right: 40px;
+  color: grey;
 }
