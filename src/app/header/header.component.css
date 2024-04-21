@@ -10,7 +10,7 @@
 
 .header-left {
   display: flex;
-  width: 50%;
+  width: 30%;
   flex-direction: row;
   align-items: center;
   text-transform: uppercase;
@@ -20,7 +20,7 @@
 
 .header-right {
   display: flex;
-  width: 30%;
+  width: 20%;
   flex-direction: row;
   align-items: center;
   text-transform: uppercase;
