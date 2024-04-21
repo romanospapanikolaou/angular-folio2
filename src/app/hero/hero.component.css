@@ -1,5 +1,5 @@
 .hero {
-  display: flex;
+  display: block;
   height: 90vh;
   overflow: hidden;
   padding-left: 28px;
@@ -7,8 +7,24 @@
   margin-bottom: 45px;
 }
 
-.hero-title {
-  font-family: "Prompt", sans-serif;
+.hero__title__top {
+  display: inline;
+  justify-content: space-between;
+}
+
+.hero__title {
+  font-size: 220px;
   font-weight: 900;
-  font-size: 90px;
+  word-break: break-word;
+  letter-spacing: -15px;
+  font-family: "Prompt", sans-serif;
+}
+
+.span {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
