@@ -1,5 +1,6 @@
 .header {
   display: flex;
+  overflow-x: hidden;
   flex-direction: row;
   justify-content: space-between;
   line-height: 20px;

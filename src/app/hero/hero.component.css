@@ -2,6 +2,7 @@
   display: block;
   height: 85vh;
   overflow-x: hidden;
+  justify-content: space-between;
 
   padding-left: 28px;
   padding-right: 28px;
