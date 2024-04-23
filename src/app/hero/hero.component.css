@@ -22,8 +22,8 @@
 
 .hero__title {
   height: 0;
-  font-size: 320px;
-  font-weight: 500;
+  font-size: 22vw;
+  font-weight: 600;
   letter-spacing: -10px;
   font-family: "Bebas Neue", sans-serif;
   text-transform: uppercase;
@@ -40,8 +40,8 @@
 }
 
 .hero__title__down {
-  font-size: 320px;
-  font-weight: 500;
+  font-size: 22vw;
+  font-weight: 600;
   letter-spacing: -10px;
   font-family: "Bebas Neue", sans-serif;
   text-transform: uppercase;
@@ -64,8 +64,9 @@
   display: block;
 
   font-family: Open Sauce, arial;
-  font-size: 16px;
-  font-weight: 300;
+  font-size: 1.5vw;
+
+  font-weight: 200;
   line-height: 20px;
   color: rgb(160, 160, 160);
 }
