@@ -3,11 +3,9 @@
   overflow: hidden;
   flex-direction: row;
   justify-content: space-between;
-  line-height: 1vw;
   font-size: 0.8vw;
   padding-left: 2vw;
   padding-right: 2vw;
-  margin-bottom: 2.5vw;
 }
 
 .header-left {
