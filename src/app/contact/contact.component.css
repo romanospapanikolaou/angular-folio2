@@ -47,12 +47,12 @@
   overflow: hidden;
   font-size: 10vw;
   font-family: Bebas Neue, sans-serif;
-  letter-spacing: -0.025em;
   white-space: nowrap;
 }
 
 .inner-span:hover {
   color: white;
+  animation-play-state: paused;
 }
 
 .home__contact__email {
