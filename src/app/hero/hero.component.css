@@ -48,6 +48,7 @@
 
 .hero__hover:hover {
   color: rgb(175, 175, 175);
+  transition: color 0.5s;
 }
 
 .bottom__right {
