@@ -58,6 +58,10 @@
   padding-right: 2rem;
 }
 
+.inner-span:hover {
+  color: white;
+}
+
 .home__contact__email {
   padding-top: 4.8rem;
   padding-bottom: 7.2rem;
