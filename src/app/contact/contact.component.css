@@ -63,7 +63,7 @@
 
 .marquee__inner:hover {
   animation-play-state: paused;
-  color: rgb(255, 100, 0);
+  color: rgb(255, 80, 0);
   transition: color 0.5s;
 }
 
@@ -100,6 +100,6 @@
 }
 
 .email:hover {
-  color: rgb(255, 100, 0);
+  color: rgb(255, 80, 0);
   transition: color 0.5s;
 }
