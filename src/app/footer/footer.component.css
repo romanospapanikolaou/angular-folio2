@@ -1,33 +1,28 @@
 .footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
   display: flex;
-  justify-content: center;
-  font-weight: 400;
-  font-size: 16px;
-  padding: 0px 0px 40px;
-  color: rgb(119, 119, 119);
-  font: 16px / 16px "Open Sauce", arial;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 12px;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 
 .footer-right {
-  left: 24px;
-  position: absolute;
-  top: 10px;
   display: flex;
-  margin: 0px 14px 0px 0px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .footer-left {
-  right: 24px;
-  position: absolute;
-  top: 10px;
   display: flex;
-  margin: 0px 14px 0px 0px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.style-304 {
+.style {
   color: rgb(119, 119, 119);
   text-decoration: none solid rgb(119, 119, 119);
 }
