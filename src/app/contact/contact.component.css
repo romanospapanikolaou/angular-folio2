@@ -42,7 +42,6 @@
 }
 
 .inner-span {
-  text-transform: uppercase;
   color: #777;
   position: relative;
   overflow: hidden;
@@ -50,8 +49,6 @@
   font-family: Bebas Neue, sans-serif;
   letter-spacing: -0.025em;
   white-space: nowrap;
-  padding-left: 2rem;
-  padding-right: 2rem;
 }
 
 .inner-span:hover {
