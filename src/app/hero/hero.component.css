@@ -78,7 +78,18 @@
   font-size: 1.1vw;
 }
 
-.scroll__down {
-  display: flex;
-  size: 1vw;
+@keyframes moveDown {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.arrow {
+  animation: moveDown 1.5s infinite;
 }
