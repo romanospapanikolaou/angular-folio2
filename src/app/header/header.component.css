@@ -3,7 +3,7 @@
   overflow: hidden;
   flex-direction: row;
   justify-content: space-between;
-  font-size: 12px;
+  font-size: 14px;
   padding-left: 2vw;
   padding-right: 2vw;
 }
@@ -24,4 +24,12 @@
   align-items: center;
   text-transform: uppercase;
   justify-content: space-between;
+}
+
+.header-right a:visited {
+  color: #777;
+}
+.header-right a:hover {
+  color: rgb(255, 80, 0);
+  transition: color 0.5s;
 }
