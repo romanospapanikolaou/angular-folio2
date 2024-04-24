@@ -88,3 +88,13 @@
   line-height: 1.3;
   letter-spacing: -0.025em;
 }
+
+.to-copy {
+  display: none;
+}
+
+.email:hover + .to-copy {
+  display: block;
+  color: rgb(255, 100, 0);
+  transition: color 0.5s;
+}
