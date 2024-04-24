@@ -1,6 +1,6 @@
 .hero {
   display: block;
-  height: 80vh;
+  height: 100%;
   overflow: hidden;
   justify-content: space-between;
 
