@@ -1,6 +1,6 @@
 .contact {
   display: block;
-  height: 75vh;
+  height: 80vh;
   overflow: hidden;
   justify-content: space-between;
 
@@ -70,8 +70,7 @@
   background: transparent;
   border: 0;
   font-weight: 500;
-  cursor: pointer;
-  color: #aaa;
+  color: #777;
   padding: 0;
   margin-bottom: 1.6rem;
   font-family: Open Sauce, arial;
