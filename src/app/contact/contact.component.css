@@ -1,6 +1,6 @@
 .contact {
   display: block;
-  height: 70vh;
+  height: 100%;
   overflow: hidden;
   justify-content: space-between;
 
@@ -81,10 +81,8 @@
   font-weight: 500;
   color: #777;
   font-family: Open Sauce, arial;
-  font-size: 3vw;
+  font-size: 2vw;
   line-height: 1.3;
-  padding-bottom: 4vh;
-  padding-top: 4vh;
 }
 
 .to-copy {
