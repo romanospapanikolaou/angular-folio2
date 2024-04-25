@@ -23,7 +23,7 @@
 .hero__title {
   letter-spacing: -10px;
   height: 0;
-  font-size: 22vw;
+  font-size: 20vw;
   font-weight: 900;
   font-family: "Bebas Neue", sans-serif;
   text-transform: uppercase;
@@ -31,14 +31,14 @@
 
 .hero__title__left {
   height: 0;
-  font-size: 22vw;
+  font-size: 20vw;
   font-weight: 500;
   font-family: "Bebas Neue", sans-serif;
   text-transform: uppercase;
 }
 .hero__title__right {
   height: 0;
-  font-size: 22vw;
+  font-size: 20vw;
   font-weight: 500;
   font-family: "Bebas Neue", sans-serif;
   text-transform: uppercase;
@@ -53,7 +53,7 @@
 }
 
 .hero__title__down {
-  font-size: 22vw;
+  font-size: 20vw;
   font-weight: 500;
   font-family: "Bebas Neue", sans-serif;
   text-transform: uppercase;

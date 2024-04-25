@@ -10,14 +10,21 @@
   .portofolio {
     display: none !important;
   }
+
+  .header-left {
+    font-size: 14px !important;
+  }
   .header-right {
     width: 60% !important;
+    font-size: 12px !important;
   }
   .hero {
+    margin-top: 40px;
     height: auto !important;
   }
 
   .hero__title__top {
+    margin-bottom: 50px;
     display: block !important;
   }
   .hero__title {
@@ -25,21 +32,26 @@
   }
 
   .hero__title__left {
-    letter-spacing: 12px !important;
+    font-size: 90px !important;
   }
   .hero__title__right {
-    letter-spacing: 12px !important;
+    font-size: 90px !important;
   }
 
   .hero__title__bottom {
     display: block !important;
+    text-align: center !important;
   }
   .hero__title__down {
-    letter-spacing: 8px !important;
+    margin-top: -50px;
+
+    font-size: 90px !important;
   }
 
   .bottom__right__text {
-    font-size: 10px !important;
+    font-size: 22px !important;
+    margin-top: -20px;
+    margin-bottom: 60px;
   }
   .bottom__right {
     align-items: center !important;
@@ -52,8 +64,23 @@
   .arrow {
     display: none !important;
   }
+  .contact {
+    margin-top: -100px;
+    margin-bottom: -100px;
+  }
+  .email {
+    font-size: 16px !important;
+  }
+  .home__contact {
+    font-size: 18px !important;
+  }
+  .home__about {
+    font-size: 18px !important;
+  }
 }
 
-@media screen and (min-width: 765px) {
-  /* Styles for screens between 500px and 800px */
+@media screen and (min-width: 765px) and (max-width: 1105px) {
+  .available {
+    display: none !important;
+  }
 }
