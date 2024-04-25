@@ -18,7 +18,7 @@
   margin-right: auto;
   padding: 0;
   font-family: Open Sauce, arial;
-  font-size: 2vh;
+  font-size: 3vh;
   font-weight: 400;
 }
 
@@ -28,8 +28,8 @@
 }
 
 .marquee {
-  padding-top: 2.5vw;
-  padding-bottom: 2.5vw;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
   overflow: hidden;
   white-space: nowrap;
   position: relative;
