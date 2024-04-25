@@ -3,7 +3,7 @@
   overflow: hidden;
   flex-direction: row;
   justify-content: space-between;
-  font-size: 14px;
+  font-size: 2vw;
   padding-left: 2vw;
   padding-right: 2vw;
 }

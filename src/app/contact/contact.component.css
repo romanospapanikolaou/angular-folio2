@@ -69,7 +69,7 @@
 
 .home__contact__email {
   padding-top: 3vw;
-  padding-bottom: 3vw;
+  padding-bottom: 2vw;
   text-align: center;
 }
 
@@ -81,7 +81,7 @@
   font-weight: 500;
   color: #777;
   font-family: Open Sauce, arial;
-  font-size: 4vh;
+  font-size: 2vw;
   line-height: 1.3;
 }
 
