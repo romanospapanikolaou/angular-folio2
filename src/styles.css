@@ -19,7 +19,6 @@
     font-size: 12px !important;
   }
   .hero {
-    margin-top: 40px;
     height: auto !important;
   }
 
@@ -52,7 +51,8 @@
 
   .bottom__right__text {
     font-size: 22px !important;
-    margin-bottom: 100px;
+    margin-bottom: 140px;
+    margin-top: -50px;
   }
   .bottom__right {
     align-items: center !important;
