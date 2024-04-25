@@ -47,7 +47,7 @@
 }
 
 .hero__hover:hover {
-  color: rgb(175, 175, 175);
+  color: rgb(190, 190, 190);
   transition: color 0.5s;
 }
 

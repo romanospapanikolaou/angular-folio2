@@ -1,6 +1,6 @@
 .contact {
   display: block;
-  height: 55vh;
+  height: 60vh;
   overflow: hidden;
   justify-content: space-between;
 
@@ -55,7 +55,7 @@
 /* Apply animation to the inner span */
 .marquee__inner {
   display: inline-block;
-  animation: marquee 20s linear infinite;
+  animation: marquee 30s linear infinite;
   color: #777;
   font-size: 10vw;
   font-family: Bebas Neue, sans-serif;
