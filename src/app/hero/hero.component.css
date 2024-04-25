@@ -27,8 +27,6 @@
   letter-spacing: -10px;
   font-family: "Bebas Neue", sans-serif;
   text-transform: uppercase;
-
-  margin-top: -100px;
 }
 
 .hero__title__bottom {
@@ -36,6 +34,7 @@
   width: 100%;
   justify-content: space-between;
   align-items: center;
+  padding-top: 5vh;
 }
 
 .hero__title__down {
