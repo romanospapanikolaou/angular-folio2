@@ -33,3 +33,15 @@
   color: rgb(255, 80, 0);
   transition: color 0.5s;
 }
+
+.project:hover {
+  display: none; /* Hide the "project" text when hovered */
+}
+
+.project:hover + .soon {
+  display: inline; /* Display the "soon" text when the "project" is hovered */
+}
+
+.soon {
+  display: none; /* Initially hide the "soon" text */
+}
