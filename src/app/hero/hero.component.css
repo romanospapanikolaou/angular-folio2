@@ -29,6 +29,23 @@
   text-transform: uppercase;
 }
 
+.hero__title__left {
+  height: 0;
+  font-size: 22vw;
+  font-weight: 500;
+  letter-spacing: -10px;
+  font-family: "Bebas Neue", sans-serif;
+  text-transform: uppercase;
+}
+.hero__title__right {
+  height: 0;
+  font-size: 22vw;
+  font-weight: 500;
+  letter-spacing: -10px;
+  font-family: "Bebas Neue", sans-serif;
+  text-transform: uppercase;
+}
+
 .hero__title__bottom {
   display: flex;
   width: 100%;

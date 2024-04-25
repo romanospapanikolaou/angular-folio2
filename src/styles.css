@@ -7,6 +7,51 @@
   .available {
     display: none !important;
   }
+  .portofolio {
+    display: none !important;
+  }
+  .header-right {
+    width: 60% !important;
+  }
+  .hero {
+    height: auto !important;
+  }
+
+  .hero__title__top {
+    display: block !important;
+  }
+  .hero__title {
+    display: none !important;
+  }
+
+  .hero__title__left {
+    letter-spacing: 12px !important;
+  }
+  .hero__title__right {
+    letter-spacing: 12px !important;
+  }
+
+  .hero__title__bottom {
+    display: block !important;
+  }
+  .hero__title__down {
+    letter-spacing: 8px !important;
+  }
+
+  .bottom__right__text {
+    font-size: 10px !important;
+  }
+  .bottom__right {
+    align-items: center !important;
+    max-width: 100% !important;
+  }
+  .scroll {
+    display: none !important;
+  }
+
+  .arrow {
+    display: none !important;
+  }
 }
 
 @media screen and (min-width: 765px) {
