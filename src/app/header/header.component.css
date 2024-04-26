@@ -33,3 +33,89 @@
   color: rgb(255, 80, 0);
   transition: color 0.5s;
 }
+
+.nav-links a:visited {
+  text-decoration: none;
+  color: none;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-links li a {
+  text-decoration: none;
+}
+
+.nav-menu-btn {
+  display: none;
+}
+.nav-menu-btn i {
+  font-size: 32px;
+  cursor: pointer;
+}
+.active-link {
+  color: chocolate;
+  transition: 0.3;
+}
+.active-link::after {
+  position: absolute;
+  left: 50%;
+  bottom: -15px;
+  transform: translate(-50%, -50%);
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+}
+
+.dropdown-content a {
+  display: block;
+  color: chocolate;
+  text-decoration: none;
+  padding-top: 5px;
+}
+
+.dropdown-content a:hover {
+  color: chocolate;
+}
+
+.burger div {
+  width: 2vw;
+  height: 0.5vh;
+  background-color: white;
+  margin: 3px;
+}
+
+@media screen and (max-width: 3000px) {
+  .nav-links {
+    display: none;
+  }
+
+  .burger {
+    display: block;
+  }
+
+  .burger.active .line1 {
+    transform: rotate(-45deg) translate(-5px, 6px);
+  }
+
+  .burger.active .line2 {
+    opacity: 0;
+  }
+
+  .burger.active .line3 {
+    transform: rotate(45deg) translate(-5px, -6px);
+  }
+
+  .dropdown-content.active {
+    display: block;
+    align-items: center;
+    justify-content: center;
+  }
+}
