@@ -4,9 +4,9 @@
 
 @media screen and (min-width: 350px) and (max-width: 765px) {
   /* Styles for screens between 500px and 800px */
-  .available {
+  /* .available {
     display: none !important;
-  }
+  } */
   .portofolio {
     display: none !important;
   }
@@ -84,7 +84,7 @@
 }
 
 @media screen and (min-width: 765px) and (max-width: 1105px) {
-  .available {
+  /* .available {
     display: none !important;
-  }
+  } */
 }
