@@ -12,16 +12,17 @@
   .available {
     display: none !important;
   }
-  .portofolio {
+  /* .portofolio {
     display: none !important;
-  }
+  } */
 
   .header-left {
+    width: 100% !important;
     font-size: 20px !important;
   }
   .header-right {
-    width: 85% !important;
-    font-size: 18px !important;
+    width: 100% !important;
+    font-size: 20px !important;
     padding-top: 20px;
   }
   .hero {
