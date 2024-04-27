@@ -34,6 +34,11 @@
   transition: color 0.5s;
 }
 
+.burger:hover {
+  color: rgb(255, 80, 0);
+  transition: color 0.5s;
+}
+
 .nav-links a:visited {
   text-decoration: none;
   color: none;

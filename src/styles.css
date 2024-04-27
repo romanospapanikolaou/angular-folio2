@@ -12,11 +12,12 @@
   }
 
   .header-left {
-    font-size: 14px !important;
+    font-size: 12px !important;
   }
   .header-right {
     width: 60% !important;
-    font-size: 12px !important;
+    font-size: 11px !important;
+    display: block;
   }
   .hero {
     height: auto !important;
@@ -27,16 +28,16 @@
     display: block !important;
   }
   .hero__title {
-    font-size: 15vh !important;
+    font-size: 12vh !important;
     /* display: none !important; */
   }
 
   .hero__title__left {
-    font-size: 12vh !important;
+    font-size: 18vh !important;
     word-break: break-all;
   }
   .hero__title__right {
-    font-size: 12vh !important;
+    font-size: 18vh !important;
   }
 
   .hero__title__bottom {
@@ -45,14 +46,13 @@
   .hero__title__down {
     margin-top: -70px;
 
-    font-size: 12vh !important;
+    font-size: 18vh !important;
     word-break: break-all;
   }
 
   .bottom__right__text {
-    font-size: 22px !important;
+    font-size: 30px !important;
     margin-bottom: 140px;
-    margin-top: -50px;
   }
   .bottom__right {
     align-items: center !important;
