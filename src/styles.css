@@ -18,7 +18,7 @@
 
   .header-left {
     width: 100% !important;
-    font-size: 20px !important;
+    font-size: 22px !important;
   }
   .header-right {
     width: 100% !important;
@@ -58,8 +58,8 @@
   }
 
   .bottom__right__text {
-    font-size: 30px !important;
-    margin-bottom: 140px;
+    font-size: 25px !important;
+    margin-bottom: 150px;
     margin-top: -50px;
   }
   .bottom__right {
@@ -78,16 +78,22 @@
     margin-bottom: -100px;
   }
   .email {
-    font-size: 18px !important;
+    font-size: 20px !important;
   }
   .home__contact {
-    font-size: 22px !important;
+    font-size: 25px !important;
   }
   .home__about {
-    font-size: 22px !important;
+    font-size: 25px !important;
   }
   .marquee__inner {
     font-size: 12vh !important;
+  }
+  .footer {
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
   }
 }
 
