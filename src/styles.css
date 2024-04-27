@@ -17,11 +17,12 @@
   }
 
   .header-left {
-    font-size: 14px !important;
+    font-size: 16px !important;
   }
   .header-right {
-    width: 60% !important;
-    font-size: 12px !important;
+    width: 75% !important;
+    font-size: 16px !important;
+    padding-top: 10px;
   }
   .hero {
     height: auto !important;
@@ -32,30 +33,31 @@
     display: block !important;
   }
   .hero__title {
-    font-size: 15vh !important;
+    font-size: 18vh !important;
     /* display: none !important; */
+    margin-right: 40px !important;
   }
 
   .hero__title__left {
-    font-size: 15vh !important;
+    font-size: 18vh !important;
     word-break: break-all;
   }
   .hero__title__right {
-    font-size: 15vh !important;
+    font-size: 18svh !important;
   }
 
   .hero__title__bottom {
     display: block !important;
   }
   .hero__title__down {
-    margin-top: -70px;
+    margin-top: -100px;
 
-    font-size: 15vh !important;
+    font-size: 18vh !important;
     word-break: break-all;
   }
 
   .bottom__right__text {
-    font-size: 25px !important;
+    font-size: 30px !important;
     margin-bottom: 140px;
     margin-top: -50px;
   }
