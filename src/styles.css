@@ -4,6 +4,11 @@
 
 @media screen and (min-width: 350px) and (max-width: 765px) {
   /* Styles for screens between 500px and 800px */
+
+  .header {
+    display: flex !important;
+    flex-direction: column !important;
+  }
   .available {
     display: none !important;
   }
@@ -32,11 +37,11 @@
   }
 
   .hero__title__left {
-    font-size: 12vh !important;
+    font-size: 15vh !important;
     word-break: break-all;
   }
   .hero__title__right {
-    font-size: 12vh !important;
+    font-size: 15vh !important;
   }
 
   .hero__title__bottom {
@@ -45,12 +50,12 @@
   .hero__title__down {
     margin-top: -70px;
 
-    font-size: 12vh !important;
+    font-size: 15vh !important;
     word-break: break-all;
   }
 
   .bottom__right__text {
-    font-size: 22px !important;
+    font-size: 25px !important;
     margin-bottom: 140px;
     margin-top: -50px;
   }
