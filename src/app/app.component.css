@@ -4,3 +4,30 @@
   color: rgb(120, 120, 120);
   padding: 1vw;
 }
+
+#pushToTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 70px;
+  right: 40px;
+  width: 60px;
+  height: 60px;
+  background-color: transparent;
+  color: #777;
+  border-style: dotted;
+  border-color: #777;
+  border-radius: 50%;
+  font-size: 8px;
+  cursor: pointer;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+
+#pushToTopBtn.show {
+  display: block;
+}
+
+#pushToTopBtn:hover {
+  border-color: rgb(255, 80, 0);
+
+  color: rgb(255, 80, 0);
+}

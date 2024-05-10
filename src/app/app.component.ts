@@ -30,3 +30,33 @@ import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component'; // You can also use <link> for styles
 // ..
 AOS.init();
+
+window.addEventListener('DOMContentLoaded', () => {
+  window.onscroll = function () {
+    scrollFunction();
+  };
+
+  function scrollFunction() {
+    const pushToTopBtn = document.getElementById('pushToTopBtn');
+    if (pushToTopBtn) {
+      if (
+        document.body.scrollTop > 20 ||
+        document.documentElement.scrollTop > 750
+      ) {
+        pushToTopBtn.classList.add('show');
+      } else {
+        pushToTopBtn.classList.remove('show');
+      }
+    }
+  }
+
+  function scrollToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+
+  const pushToTopBtn = document.getElementById('pushToTopBtn');
+  if (pushToTopBtn) {
+    pushToTopBtn.addEventListener('click', scrollToTop);
+  }
+});
