@@ -15,6 +15,7 @@
   align-items: center;
   text-transform: uppercase;
   justify-content: space-between;
+  color: rgb(190, 190, 190);
 }
 
 .header-right {
@@ -30,6 +31,14 @@
   color: #777;
 }
 .header-right a:hover {
+  color: rgb(255, 80, 0);
+  transition: color 0.5s;
+}
+
+.header-left a:visited {
+  color: rgb(190, 190, 190);
+}
+.header-left a:hover {
   color: rgb(255, 80, 0);
   transition: color 0.5s;
 }
