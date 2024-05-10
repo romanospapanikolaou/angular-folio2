@@ -16,6 +16,7 @@ import { FooterComponent } from './footer/footer.component';
     FooterComponent,
     ContactComponent,
     AboutComponent,
+    ProjectsComponent,
   ],
 })
 export class AppComponent {
@@ -25,6 +26,7 @@ export class AppComponent {
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { ContactComponent } from './contact/contact.component';
-import { AboutComponent } from './about/about.component'; // You can also use <link> for styles
+import { AboutComponent } from './about/about.component';
+import { ProjectsComponent } from './projects/projects.component'; // You can also use <link> for styles
 // ..
 AOS.init();

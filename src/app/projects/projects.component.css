@@ -51,22 +51,17 @@
   animation-play-state: paused;
 }
 
-.marquee__inner a:hover {
-  animation-play-state: paused;
-  color: rgb(255, 80, 0);
-  transition: color 0.5s;
-}
-
 .marquee__inner span:hover {
   animation-play-state: paused;
   color: rgb(255, 80, 0);
   transition: color 0.5s;
 }
+
 @keyframes marquee {
   0% {
-    transform: translateX(-50%);
+    transform: translateX(0);
   }
   100% {
-    transform: translateX(0);
+    transform: translateX(-50%);
   }
 }
