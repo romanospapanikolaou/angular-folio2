@@ -1,4 +1,4 @@
-.about {
+.projects {
   display: block;
   height: 60vh;
   overflow: hidden;
@@ -11,7 +11,7 @@
   padding-right: 2vw;
 }
 
-.home__about {
+.projects__about {
   max-width: 44rem;
   text-align: center;
   margin-left: auto;
