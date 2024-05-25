@@ -29,23 +29,29 @@
 
 .header-right a:link {
   color: #777;
+  text-decoration: none;
 }
 .header-right a:visited {
   color: #777;
+  text-decoration: none;
 }
 .header-right a:hover {
   color: rgb(255, 80, 0);
   transition: color 0.5s;
+  text-decoration: none;
 }
 
 .header-right a:link {
   color: rgb(190, 190, 190);
+  text-decoration: none;
 }
 
 .header-left a:visited {
   color: rgb(190, 190, 190);
+  text-decoration: none;
 }
 .header-left a:hover {
   color: rgb(255, 80, 0);
   transition: color 0.5s;
+  text-decoration: none;
 }

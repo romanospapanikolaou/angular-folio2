@@ -23,6 +23,12 @@
 }
 
 .style {
-  color: rgb(119, 119, 119);
-  text-decoration: none solid rgb(119, 119, 119);
+  color: #777;
+  text-decoration: none solid #777;
+}
+
+.style:hover {
+  color: rgb(255, 80, 0);
+  transition: color 0.5s;
+  text-decoration: none;
 }
