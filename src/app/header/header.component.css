@@ -6,6 +6,7 @@
   font-size: 16px;
   padding-left: 2vw;
   padding-right: 2vw;
+  text-decoration: none;
 }
 
 .header-left {
@@ -16,6 +17,7 @@
   text-transform: uppercase;
   justify-content: space-between;
   color: rgb(190, 190, 190);
+  text-decoration: none;
 }
 
 .header-right {
@@ -25,6 +27,7 @@
   align-items: center;
   text-transform: uppercase;
   justify-content: space-between;
+  text-decoration: none;
 }
 
 .header-right a:link {
@@ -41,7 +44,7 @@
   text-decoration: none;
 }
 
-.header-right a:link {
+.header-left a:link {
   color: rgb(190, 190, 190);
   text-decoration: none;
 }
