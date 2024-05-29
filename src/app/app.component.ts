@@ -51,10 +51,28 @@ window.addEventListener('DOMContentLoaded', () => {
   }
 
   function scrollToTop() {
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth',
-    });
+    const duration = 1500; // duration in milliseconds
+    const start = document.documentElement.scrollTop || document.body.scrollTop;
+    const startTime =
+      'now' in window.performance ? performance.now() : new Date().getTime();
+
+    function scrollStep() {
+      const now =
+        'now' in window.performance ? performance.now() : new Date().getTime();
+      const time = Math.min(1, (now - startTime) / duration);
+      const timeFunction = time * (2 - time); // easeOutQuad easing function
+
+      window.scrollTo(0, Math.ceil(timeFunction * (0 - start) + start));
+
+      if (
+        document.documentElement.scrollTop !== 0 ||
+        document.body.scrollTop !== 0
+      ) {
+        requestAnimationFrame(scrollStep);
+      }
+    }
+
+    requestAnimationFrame(scrollStep);
   }
 
   const pushToTopBtn = document.getElementById('pushToTopBtn');
